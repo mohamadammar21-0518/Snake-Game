@@ -16,12 +16,12 @@ A fun and simple Snake game built using **Python** and **Pygame**.
 
 - Python 3.x
 - Pygame library
-- 
+  
 To install Pygame, just open your terminal and type:  
 "pip install pygame"
 
 After installing Pygame, run your Snake game using:
-"python Snake.py"  or "python -u <path of Snake.py file>
+"python Snake.py"  or "python -u "path of python file"
 
 
 
